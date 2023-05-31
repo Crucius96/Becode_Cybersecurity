@@ -1,3 +1,5 @@
-# CollabProjects-Becode
+# CollabProjects-Becode.
 
-Network group project.
+Group Network Project
+
+Runescape work in progress...
