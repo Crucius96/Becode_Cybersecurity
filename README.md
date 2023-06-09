@@ -6,9 +6,9 @@
 
 ### Network Chapter
 
-   - [Simple_Network](https://github.com/Crucius96/Becode-Projects/tree/master/Simple_Network)
+   - [Simple_Network](https://github.com/Crucius96/Becode-Projects/tree/master/Network%20Chapter/Simple_Network)
 
-   - [Group_Network_Project](https://github.com/Crucius96/Becode-Projects/tree/master/Group_Network_Project)
+   - [Group_Network_Project](https://github.com/Crucius96/Becode-Projects/tree/master/Network%20Chapter/Group_Network_Project)
 
 ### Linux Chapter
 
