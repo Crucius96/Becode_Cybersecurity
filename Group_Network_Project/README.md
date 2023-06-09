@@ -22,8 +22,11 @@ The plan had to be as complete as possible. It had include the IP address, the t
 ## Team
 
 [Axel](https://github.com/Crucius96)
+
 [Nicolay](https://github.com/yadrychnikovNicolay)
+
 [StÃ©phane](https://github.com/RombinatoR)
+
 [Wouter](https://github.com/Hyamoto)
 
 ## Setups
