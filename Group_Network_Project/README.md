@@ -49,13 +49,13 @@ After the basic network was ready and the sectors interconnected, we set a conne
 We connect the firewall to the DMZ with a Web Server inside and to a router leading to the Cloud.
 
 
-![switch network plan](Group_Network_Project/Network model images/network-project-switches.png)
+![network-project-switches](https://github.com/Crucius96/Becode-Projects/assets/130939051/a8d7136e-c9b9-42d0-831c-3ad13dc70551)
 
 ### Router Network
 
 TODO TODO TODO TODO TODO TODO TODO TODO
 
-![router network plan](Group_Network_Project/Network model images/network-project-routers.png)
+![network-project-routers](https://github.com/Crucius96/Becode-Projects/assets/130939051/532c0c4b-ced1-4ede-8f61-e5c25f48d6b0)
 
 ## Last Step
 
