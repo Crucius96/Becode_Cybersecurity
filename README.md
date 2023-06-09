@@ -6,10 +6,10 @@
 
 ### Network Chapter
 
--[Simple_Network](https://github.com/Crucius96/Becode-Projects/tree/master/Simple_Network)
+    -[Simple_Network](https://github.com/Crucius96/Becode-Projects/tree/master/Simple_Network)
 
--[Group_Network_Building](https://github.com/Crucius96/Becode-Projects/tree/master/Group_Network_Project)
+    -[Group_Network_Building](https://github.com/Crucius96/Becode-Projects/tree/master/Group_Network_Project)
 
 ### Linux Chapter
 
--[Linux Fundamental commands]()
+    -[Linux Fundamental commands]()
