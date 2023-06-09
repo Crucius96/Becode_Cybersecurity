@@ -4,9 +4,11 @@ In this repository you will find all the individual and group projects that were
 
 ## Projects list
 
-###Network Chapter
+### Network Chapter
+
 -[Simple_Network](https://github.com/Crucius96/Becode-Projects/tree/master/Simple_Network)
 -[Group_Netwwork_Building]()
 
-###Linux Chapter
+### Linux Chapter
+
 -[Linux Fundamental commands]()
