@@ -8,7 +8,7 @@ In this repository you will find all the individual and group projects that were
 
 -[Simple_Network](https://github.com/Crucius96/Becode-Projects/tree/master/Simple_Network)
 
--[Group_Netwwork_Building]()
+-[Group_Network_Building]()
 
 ### Linux Chapter
 
