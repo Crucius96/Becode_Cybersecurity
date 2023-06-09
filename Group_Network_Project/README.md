@@ -33,7 +33,7 @@ We established **2 different Network plans**, one where the network would have s
 _Hereunder you can find the networks plan(.pkt) link:_
 
 - [Switch_Network_Plan](https://github.com/Crucius96/Becode-Projects/blob/master/Group_Network_Project/Switch-Network-Plan.pkt)
-- [Router_Network_OSPF](https://github.com/Crucius96/Becode-Projects/blob/master/Group_Network_Project/Router-Network-OSPF.pkt)
+- [Router_Network_OSPF]([https://github.com/Crucius96/Becode-Projects/blob/master/Group_Network_Project/Router-Network-OSPF.pkt](https://github.com/Crucius96/Becode-Projects/raw/master/Group_Network_Project/Router-Network-OSPF.pkt))
 
 
 ### Switch Network
