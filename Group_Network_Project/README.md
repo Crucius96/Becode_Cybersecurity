@@ -32,8 +32,8 @@ We established **2 different Network plans**, one where the network would have s
 
 _Hereunder you can find the networks plan(.pkt) link:_
 
-- [Switch_Network_Plan](Group_Network_Project/Network_Models/Switch-Network-Plan.pkt)
-- [Router_Network_OSPF](Group_Network_Project/Network_Models/Router-Network-OSPF.pkt)
+- [Switch_Network_Plan](https://github.com/Crucius96/Becode-Projects/blob/master/Group_Network_Project/Network_Models/Switch-Network-Plan.pkt)
+- [Router_Network_OSPF](https://github.com/Crucius96/Becode-Projects/blob/master/Group_Network_Project/Network_Models/Router-Network-OSPF.pkt)
 
 
 ### Switch Network
