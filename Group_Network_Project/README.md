@@ -32,8 +32,8 @@ We established **2 different Network plans**, one where the network would have s
 
 _Hereunder you can find the networks plan(.pkt) link:_
 
-[Switch_Network_Plan]()
-[Router_Network_OSPF]()
+[Switch_Network_Plan](https://github.com/Crucius96/Becode-Projects/blob/master/Group_Network_Project/Switch-Network-Plan.pkt)
+[Router_Network_OSPF](https://github.com/Crucius96/Becode-Projects/blob/master/Group_Network_Project/Router-Network-OSPF.pkt)
 
 
 ### Switch Network
@@ -49,7 +49,7 @@ After the basic network was ready and the sectors interconnected, we set a conne
 We connect the firewall to the DMZ with a Web Server inside and to a router leading to the Cloud.
 
 
-![switch network plan](./images/etwork-project-switches.png)
+![switch network plan](./Network%20model%20images/Network%20model%20images)
 
 ### Router Network
 
