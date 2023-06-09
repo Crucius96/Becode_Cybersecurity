@@ -1,2 +1,0 @@
-# BeCode - Network Group Projects
-
