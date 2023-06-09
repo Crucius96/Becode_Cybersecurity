@@ -1,0 +1,3 @@
+# Network Chapter
+
+Here you will find my journey as I explore the realm of network building with Cisco Packet Tracer. Starting as a novice, I am uncovering the fundamental steps involved in connecting devices, configuring IP addressing, implementing routing protocols, and more. With every stride forward, I am building confidence and refining my skills in crafting and troubleshooting networks within the virtual environment of Cisco Packet Tracer. 
