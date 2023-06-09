@@ -2,7 +2,7 @@
 
 Network building exercise - BeCode
 
-[Link to the PKT file]()
+[PKT file link](https://github.com/Crucius96/CollabProjects-Becode/blob/master/Simple_Network/Simple_Network.pkt)
 
 ## Mission objectives
 
