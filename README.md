@@ -13,3 +13,6 @@
 ### Linux Chapter
 
    - [Linux Fundamental commands]()
+
+
+**Feel free to navigate through the repository and explore the subfolders to gain insights into my learning journey during this bootcamp.**
