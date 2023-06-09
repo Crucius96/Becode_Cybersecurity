@@ -1,7 +1,12 @@
-# CollabProjects-Becode.
+# BeCode Projects
 
-Group Network Project
+In this repository you will find all the individual and group projects that were done throughout the seven months training. 
 
-Runescape work in progress...
+## Projects list
 
-Missing Firewall config & Internet to Private Network...
+###Network Chapter
+-[Simple_Network](https://github.com/Crucius96/Becode-Projects/tree/master/Simple_Network)
+-[Group_Netwwork_Building]()
+
+###Linux Chapter
+-[Linux Fundamental commands]()
