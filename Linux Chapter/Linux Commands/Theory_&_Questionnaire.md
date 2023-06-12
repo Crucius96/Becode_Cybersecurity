@@ -1,24 +1,7 @@
 # Theory_&_Questionnaire
 
 
-## 1. Terminal Basics
-
-#### Pitch
-
-Time to discover the terminal and work with the most common commands.
-
-#### Goals
-
-You should be able to use the right terminal syntax:
-
-- Move around the file system;
-- Show the contents of a folder;
-- Create a folder
-- Create a file
-- Change a filename
-- Remove a file
-
-As you'll see, the exercises below give you the objective, but not how to do them. When you don't know, it's time to ask your new BFF: Google! That's one core rule at BeCode : before asking your neighbour for help, ask the internet!
+### **_Tip_**: when you don't know, it's time to ask your new BFF: Google! That's one core rule at BeCode : before asking your neighbour for help, ask the internet!
 
 
 
