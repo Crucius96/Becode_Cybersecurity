@@ -1,8 +1,7 @@
 # Theory_&_Questionnaire
 
-## Chapters
 
-### 1. Terminal Basics
+## 1. Terminal Basics
 
 #### Pitch
 
@@ -21,10 +20,15 @@ You should be able to use the right terminal syntax:
 
 As you'll see, the exercises below give you the objective, but not how to do them. When you don't know, it's time to ask your new BFF: Google! That's one core rule at BeCode : before asking your neighbour for help, ask the internet!
 
-### 2. Finding Files
+
+
+
+## 2. Finding Files
 
 #### Pitch
 When you work with linux a graphical user interface is not always available. In most cases, you'll just have the access to a terminal of a remote machine, on which you have just logged in using ssh. It is therefore interesting to be able to use specific commands to easily find a file, folder or even search for pieces of text in files. This is what we will do here.
+
+
 
 #### Exercises 
 1. Create a file named ``my-file.txt`` with the touch command. Then execute the ``locate my-file.txt`` command. Do you find the file? 
@@ -53,10 +57,16 @@ user and execute ls -l on them. **Chaining/piping commands is NOT allowed!**
 1. With the find command, find all the files in the folder ``/home/student/findme/`` that have an authorization of ``0777`` and change the rights of these files to ``0755``
     > Your command : find /home/student/findme/ -type f -perm 0777 -exec chmod 0755 {} \;
 
-### 3. Text Manipulation
+
+
+
+
+## 3. Text Manipulation
 
 #### Pitch
 When you work with linux a graphical user interface is not always available. In most cases, you'll just have the access to a terminal of a remote machine, on which you have just logged in using ssh. It is therefore interesting to be able to use specific commands to easily find a file, folder or even search for pieces of text in files. This is what we will do here.
+
+
 
 #### Exercices
 1. Search all sequences containing "Loxondota" in ``/home/student/lorem.txt``
@@ -91,7 +101,11 @@ machine for which the shell is set to ``/bin/false``.
     > Your response :
     > Your command :
 
-### 4. Piping and Redirection
+
+
+
+
+## 4. Piping and Redirection
 
 #### Pitch
 Learning the wonders of piping and redirections with the linux terminal
@@ -118,6 +132,8 @@ data stored in a file to a process. The standard input, standard output and stan
 as well as the files from which data is accessed or to which data is sent are all managed by file
 by file descriptors. The descriptor duplication mechanism will therefore be the mechanism used to
 implement redirections in Unix.
+
+
 
 #### Exercices
 Read the following [article](https://ryanstutorials.net/linuxtutorial/piping.php) and answer the questions below. Some questions will require additional research.
@@ -152,7 +168,11 @@ Read the following [article](https://ryanstutorials.net/linuxtutorial/piping.php
 1. Using the previous nl command, the head and tail commands, display the lines of /etc/passwd between line 7 and line 12
     > Your commands :
 
-### 5. Bash Environment
+
+
+
+
+## 5. Bash Environment
 
 #### Pitch
 Figuring out the environment variables and their usage
@@ -174,7 +194,11 @@ A PID (that is, a process identification number) is an identification number tha
 
 Source: https://frameboxxindore.com/linux/what-is-pid-in-linux.html
 
-### 7. Protocols and Servers
+
+
+
+
+## 7. Protocols and Servers
 
 #### Pitch
 Overview of server and internet protocols.
@@ -191,6 +215,8 @@ Overview of server and internet protocols.
     - Install and configuration
 5. FTP
     - Install and configuration
+
+
 
 #### Exercices
 > Connect to the virtual machine 10.12.181.X with the following credentials:  
@@ -239,6 +265,8 @@ Overview of server and internet protocols.
 #### Pitch
 Learning how to transfer files between files different machines.
 
+
+
 #### Exercices
 1. On your Kali machine, create a file named malware.php.
     ````
@@ -262,34 +290,3 @@ Learning how to transfer files between files different machines.
 1. On the student machine,  transfer ``/etc/passwd`` file to your kali machine with tftp
     > Your commands : 
 
-### 9. Project
-
-#### Context
-The local library in your little town has no funding for Windows licenses so the director is considering Linux. Some users are sceptical and ask for a demo. The local IT company where you work is taking up the project and you are in charge of setting up a server and a workstation.
-To demonstrate this setup, you will use virtual machines and an internal virtual network (your DHCP must not interfere with the LAN).
-
-
-You may propose any additional functionality you consider interesting.
-
-#### Must Have
-Set up the following Linux infrastructure:
-
-1. One server (no GUI) running the following services:
-    - DHCP (one scope serving the local internal network)  isc-dhcp-server
-    - DNS (resolve internal resources, a redirector is used for external resources) bind
-    - HTTP+ mariadb (internal website running GLPI)
-    - **Required**
-        1. Weekly backup the configuration files for each service into one single compressed archive
-        2. The server is remotely manageable (SSH)
-    - **Optional**
-        1. Backups are placed on a partition located on  separate disk, this partition must be mounted for the backup, then unmounted
-
-2. One workstation running a desktop environment and the following apps:
-    - LibreOffice
-    - Gimp
-    - A web-browser
-    - **Required** 
-        1. This workstation uses automatic addressing
-        2. The /home folder is located on a separate partition, same disk
-    - **Optional**
-        1. Propose and implement a solution to remotely help a user
