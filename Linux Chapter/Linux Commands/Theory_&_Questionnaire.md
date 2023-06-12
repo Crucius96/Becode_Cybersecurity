@@ -6,7 +6,7 @@
 
 
 
-## 2. Finding Files
+## 1. Finding Files
 
 #### Pitch
 When you work with linux a graphical user interface is not always available. In most cases, you'll just have the access to a terminal of a remote machine, on which you have just logged in using ssh. It is therefore interesting to be able to use specific commands to easily find a file, folder or even search for pieces of text in files. This is what we will do here.
@@ -44,7 +44,7 @@ user and execute ls -l on them. **Chaining/piping commands is NOT allowed!**
 
 
 
-## 3. Text Manipulation
+## 2. Text Manipulation
 
 #### Pitch
 When you work with linux a graphical user interface is not always available. In most cases, you'll just have the access to a terminal of a remote machine, on which you have just logged in using ssh. It is therefore interesting to be able to use specific commands to easily find a file, folder or even search for pieces of text in files. This is what we will do here.
@@ -88,7 +88,7 @@ machine for which the shell is set to ``/bin/false``.
 
 
 
-## 4. Piping and Redirection
+## 3. Piping and Redirection
 
 #### Pitch
 Learning the wonders of piping and redirections with the linux terminal
@@ -155,7 +155,7 @@ Read the following [article](https://ryanstutorials.net/linuxtutorial/piping.php
 
 
 
-## 5. Bash Environment
+## 4. Bash Environment
 
 #### Pitch
 Figuring out the environment variables and their usage
@@ -181,7 +181,7 @@ Source: https://frameboxxindore.com/linux/what-is-pid-in-linux.html
 
 
 
-## 7. Protocols and Servers
+## 5. Protocols and Servers
 
 #### Pitch
 Overview of server and internet protocols.
@@ -243,7 +243,7 @@ Overview of server and internet protocols.
 1. Create a share file with samba between your Kali machine and your student machine.
     > No answer required
 
-### 8. Downloading Files
+### 6. Downloading Files
 
 #### Pitch
 Learning how to transfer files between files different machines.
