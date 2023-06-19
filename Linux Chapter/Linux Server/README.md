@@ -19,7 +19,7 @@ BeCode Linux Server-Client Project
     - [__1. Setting Up the VM__](#1-setting-up-the-vm)
     - [__2. Installing the consumer Softwares__](#2-installing-the-consumer-softwares)
 
-- [__Useful Links__](#useful-links)
+- [_Useful Links_](#useful-links)
 
 
 ---
