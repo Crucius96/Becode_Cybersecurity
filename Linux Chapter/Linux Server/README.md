@@ -6,7 +6,7 @@ BeCode Linux Server-Client Project
     - [Requirements](#requirements)
 
 - [Server VirtualMachine Setup](#server-virtualmachine-setup)
-    - [__1. Creating and installing the VM__](#1-creating-and-installing-the-vm)
+    - [1. Creating and installing the VM](#1-creating-and-installing-the-vm)
     - [__2. Install sudo and add user to sudoers__](#2-install-sudo-and-add-user-to-sudoers)
     - [__3. Setting up the firewall__](#3-setting-up-the-firewall)
     - [__4. Setting server's Static IP__](#4-setting-servers-static-ip)
@@ -75,7 +75,7 @@ Adaptor 2: will be set on Host-Only, in this way we will isolate a network betwe
 
 ## Steps
 
-### __1. Creating and installing the VM__
+### 1. Creating and installing the VM
 
 First we need to download the Ubuntu Server ISO, you can get yours [here](https://ubuntu.com/download/server).
 
