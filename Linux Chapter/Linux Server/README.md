@@ -7,17 +7,17 @@ BeCode Linux Server-Client Project
 
 - [Server VirtualMachine Setup](#server-virtualmachine-setup)
     - [1. Creating and installing the VM](#1-creating-and-installing-the-vm)
-    - [__2. Install sudo and add user to sudoers__](#2-install-sudo-and-add-user-to-sudoers)
-    - [__3. Setting up the firewall__](#3-setting-up-the-firewall)
-    - [__4. Setting server's Static IP__](#4-setting-servers-static-ip)
-    - [__5. Installing GLPI__](#5-installing-glpi)
-    - [__6. Setting up a DNS server__](#6-setting-up-a-dns-server)
-    - [__7. Setting up a DHCP server__](#7-setting-up-a-dhcp-server)
-    - [__8. Weekly Backup of Configurations__](#8-weekly-backup-of-configurations)
+    - [2. Install sudo and add user to sudoers](#2-install-sudo-and-add-user-to-sudoers)
+    - [3. Setting up the firewall](#3-setting-up-the-firewall)
+    - [4. Setting server's Static IP](#4-setting-servers-static-ip)
+    - [5. Installing GLPI](#5-installing-glpi)
+    - [6. Setting up a DNS server](#6-setting-up-a-dns-server)
+    - [7. Setting up a DHCP server](#7-setting-up-a-dhcp-server)
+    - [8. Weekly Backup of Configurations](#8-weekly-backup-of-configurations)
   
 - [Workstation VirtualMachine Setup](#workstation-vm-setup)
-    - [__1. Setting Up the VM__](#1-setting-up-the-vm)
-    - [__2. Installing the consumer Softwares__](#2-installing-the-consumer-softwares)
+    - [1. Setting Up the VM](#1-setting-up-the-vm)
+    - [2. Installing the consumer Softwares](#2-installing-the-consumer-softwares)
 
 - [_Useful Links_](#useful-links)
 
@@ -101,7 +101,7 @@ Don't scan for extra setups as it might slowdown your installation for unnecessa
 
 ---
 
-### __2. Install sudo and add user to sudoers__
+### 2. Install sudo and add user to sudoers
 
 First step, install sudo and add your user to the sudoers group:
 ```sh
@@ -124,7 +124,7 @@ sudo apt update
 
 -----------------------------------------
 
-### __3. Setting up the firewall__
+### 3. Setting up the firewall
 
 Then we'll install the Uncomplicated Firewall and set it up for the future:
 ```sh
@@ -141,7 +141,7 @@ sudo ufw allow SSH,80,443,53,67
 
 -----------------------------------------
 
-### __4. Setting server's Static IP__
+### 4. Setting server's Static IP
 
 After that, we'll be setting a static IP to our server:
 
@@ -183,7 +183,7 @@ You now have a server with a static IP.
 
 -----------------------------------------
 
-### __4. Installing GLPI__
+### 4. Installing GLPI
 
 We'll use a convenient [little script](https://github.com/jr0w3/GLPI_install_script) that'll install and set up GLPI with and Apache2 server and a MardiaDB database.
 
@@ -216,7 +216,7 @@ The default credentials for GLPI are glpi:glpi. (Some other extra credentials wi
 
 -----------------------------------------
 
-### __5. Setting up a DNS server__
+### 5. Setting up a DNS server
 
 Follow [this tutorial](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/set-up-dns-server-on-ubuntu-22-04.html).
 
@@ -254,7 +254,7 @@ If we want to allow anyone :
 
 -----------------------------------------
 
-### __6. Setting up a DHCP server__
+### 6. Setting up a DHCP server
 
 First we install it:
 ```sh
@@ -322,7 +322,7 @@ You should be able to access your GLPI interface.
 
 -----------------------------------------
 
-### __7. Weekly Backup of Configurations__
+### 7. Weekly Backup of Configurations
 
 First we need to create a new volume for your VM.
 
@@ -380,7 +380,7 @@ Adaptor 2: will be set on Host-Only, in this way we will isolate a network betwe
 
 -----------------------------------------
 
-### __1. Setting Up the VM__
+### 1. Setting Up the VM
 
 Once your machine is turned on, the first thing we have to do is add your user to the sudoers.
 
@@ -398,7 +398,7 @@ Restart your VM
 -----------------------------------------
 
 
-### __2. Installing the consumer Softwares__
+### 2. Installing the consumer Softwares
 
 [Libre Office](https://www.libreoffice.org/)
 LibreOffice is installed by default on most popular linux distributions, but if it isn't on yours, type
@@ -442,7 +442,7 @@ Now you have Mullvad browser registered in your applications.
 
 -----------------------------------------
 
-## __Useful Links__
+## Useful Links
 
 **Remote help** :
 If we want to set up the option of a remote help, we can use a Windows default application Remote Desktop Protocol or a Third-party remote Desktop Software.
