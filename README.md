@@ -22,7 +22,7 @@
 
 ### Powershell
    
-   -[Powershell Challenge](Powershell_Challenge) (visible only with PGP Pubblic key request)
+   - [Powershell Challenge](Powershell_Challenge) (visible only with PGP Pubblic key request)
 
 
 **Feel free to navigate through the repository and explore the subfolders to gain insights into my learning journey during this bootcamp.**
