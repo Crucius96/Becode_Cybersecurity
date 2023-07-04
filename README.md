@@ -4,6 +4,12 @@
 
 ## Projects list
 
+### Phishing Chapter
+
+   - Phishing Analysis
+
+   - Phishing Project (HTML, CSS, JavaScript, Data Gathering with Webhook)
+
 ### Network Chapter
 
    - [Simple_Network](https://github.com/Crucius96/Becode-Projects/tree/master/Network%20Chapter/Simple_Network)
@@ -13,6 +19,10 @@
 ### Linux Chapter
 
    - [Linux Fundamental commands](https://github.com/Crucius96/Becode-Projects/blob/master/Linux%20Chapter/Linux%20Commands/Theory_&_Questionnaire.md)
+
+### Powershell
+   
+   -[Powershell Challenge](Powershell_Challenge) (visible only with PGP Pubblic key request)
 
 
 **Feel free to navigate through the repository and explore the subfolders to gain insights into my learning journey during this bootcamp.**
