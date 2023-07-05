@@ -1,0 +1,366 @@
+Received: from AS4PR10MB5151.EURPRD10.PROD.OUTLOOK.COM (2603:10a6:20b:4c2::5)
+ by AS2PR10MB6869.EURPRD10.PROD.OUTLOOK.COM with HTTPS; Sun, 26 Mar 2023
+ 10:31:57 +0000
+Received: from BN9PR03CA0884.namprd03.prod.outlook.com (2603:10b6:408:13c::19)
+ by AS4PR10MB5151.EURPRD10.PROD.OUTLOOK.COM (2603:10a6:20b:4c2::5) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6178.41; Sun, 26 Mar
+ 2023 10:31:56 +0000
+Received: from BN8NAM12FT109.eop-nam12.prod.protection.outlook.com
+ (2603:10b6:408:13c::4) by BN9PR03CA0884.outlook.office365.com
+ (2603:10b6:408:13c::19) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6178.41 via Frontend
+ Transport; Sun, 26 Mar 2023 10:31:56 +0000
+Authentication-Results: spf=none (sender IP is 80.78.255.128)
+ smtp.mailfrom=80-78-255-128.cloudvps.regruhosting.ru; dkim=none (message not
+ signed) header.d=none;dmarc=none action=none
+ header.from=80-78-255-128.cloudvps.regruhosting.ru;compauth=pass reason=105
+Received-SPF: None (protection.outlook.com:
+ 80-78-255-128.cloudvps.regruhosting.ru does not designate permitted sender
+ hosts)
+Received: from 80-78-255-128.cloudvps.regruhosting.ru (80.78.255.128) by
+ BN8NAM12FT109.mail.protection.outlook.com (10.13.182.106) with Microsoft SMTP
+ Server id 15.20.6254.9 via Frontend Transport; Sun, 26 Mar 2023 10:31:55
+ +0000
+X-IncomingTopHeaderMarker:
+ OriginalChecksum:7EFADE09D37F5AE6208E9835A83358F4AA2309A7E56B9330F581D3684266F3AA;UpperCasedChecksum:485B603EA7F0C41C6EC618C19D5BCFF1760D56F2FD5BEDE41BAF4B9CAED7DBD8;SizeAsReceived:500;Count:13
+Content-Transfer-Encoding: 7bit
+To: "Ludo" <becode@phishing-me.be>
+Violets-Bunt-Fabulously: bead17b9
+Date: Sun, 26 Mar 2023 13:31:56 +0000
+Content-Type: text/html; charset=UTF-8
+Subject: It's a Match!
+From: Tinder <gq@80-78-255-128.cloudvps.regruhosting.ru>
+Obviously-Bumblebees-Arcs: 15919
+Postulation-Sunken-Summoners: 87692
+Unraveled-Subscriber: commissioning
+Message-ID: <83652665.822718944.263455149669@80-78-255-128.cloudvps.regruhosting.ru>
+Jude-Violent: rusts
+X-IncomingHeaderCount: 13
+Return-Path: gq@80-78-255-128.cloudvps.regruhosting.ru
+X-MS-Exchange-Organization-ExpirationStartTime: 26 Mar 2023 10:31:56.2971
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ f1ff1eab-d9ba-43c7-ccda-08db2de552cc
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: BN8NAM12FT109:EE_|AS4PR10MB5151:EE_
+X-MS-Exchange-Organization-AuthSource:
+ BN8NAM12FT109.eop-nam12.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 3/26/2023 10:09:40 AM
+X-MS-Office365-Filtering-Correlation-Id: f1ff1eab-d9ba-43c7-ccda-08db2de552cc
+X-MS-Exchange-EOPDirect: true
+X-Sender-IP: 80.78.255.128
+X-SID-PRA: GQ@80-78-255-128.CLOUDVPS.REGRUHOSTING.RU
+X-SID-Result: NONE
+X-MS-Exchange-Organization-PCL: 2
+X-MS-Exchange-Organization-SCL: 9
+X-Microsoft-Antispam: BCL:0;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 26 Mar 2023 10:31:55.8440
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: f1ff1eab-d9ba-43c7-ccda-08db2de552cc
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource:
+ BN8NAM12FT109.eop-nam12.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AS4PR10MB5151
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.5882160
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.6178.037
+X-Microsoft-Antispam-Mailbox-Delivery:
+	abwl:0;wl:0;pcwl:0;kl:0;dwl:0;dkl:0;rwl:0;ucf:0;jmr:0;ex:0;psp:0;auth:0;dest:J;OFR:SpamFilterAuthJ;ENG:(5062000305)(90000117)(90005022)(91005020)(91035115)(9050020)(9100338)(2008001134)(2008121020)(4810010)(4910033)(8820095)(10010002)(9610025)(9560006)(10180021)(9320005)(9245025);RF:JunkEmail;
+X-Message-Info:
+	6hMotsjLow8tCacANDFIPxVFK5IWbneQPktA3UJ1JLJwnUydPoANjDhgBQPHg6ZDS+iVEYFLhYcfgYXRZzHqnVAwnkZJp0aQ8ZQkX7uQCQMpAUJAweZeDkflk2P+OSIbQOn/zlK5MiZAFHR+t5L+zIGK7Rl7kNNIGvVne0/QHcnK2INqvGbotcTiwRZud2FvNP7Fcgx3Fxw2KOq5IpnixQ==
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MjtHRD0yO1NDTD02
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?dzV6anNDWk1HYXdiS1Q5bkZTSjZJUUtOTGdXdWpRdk1OWE9IbHp1WWhwOXBZ?=
+ =?utf-8?B?SUkrcHRpUUgxTXo5MHdDa21DcG1oM1d4bjQ4cjhMUHFGd2kzK3ppQlRqNUVB?=
+ =?utf-8?B?MWVOZjVtM3Z4VUtJeUZMNEdGTUUyZmJIeVFoZkRWeDdwTGtnVmhnaUJBN2lD?=
+ =?utf-8?B?RHIwYjRLNTFJWHEyY0lCU1FHVWRaakJqVXh2NzRxckNrOW9mWjZyWkIrbmFr?=
+ =?utf-8?B?Rnh3ZDJhMll1dm4yKzlzZmdIVSthYnhiNjFaSHpVc3dTS3pPczhCMVNObjVW?=
+ =?utf-8?B?dUREL1MzTEZWaFRBWlZBWDVXVXJNU2owVnBqL3lMNGRlWnlzZnZWWGRTaVNu?=
+ =?utf-8?B?TEwzcDRFa2hSdzRwZktDZXl6VUREYUNIMjlUVWpucW9WVUQ1WE9YZ0hyZHRl?=
+ =?utf-8?B?QWQxOXR0VzgxenR6eGNWOFpKT2F1WGRHVlRtODdWSnl3WVZ6d2szVUhUeW1J?=
+ =?utf-8?B?SlZzUXV6bGx5eE5GU3ErSFdMWmtBWHpLUVlHQW9XN3Q4WVR4cEpOajdBRmNt?=
+ =?utf-8?B?Nk0wdStCRlBJRlg4eDhRQllBZkNqQ3BkaTF5UDFTZWtVVXdET1EycE5DU255?=
+ =?utf-8?B?end1ZS9iem9HTzBqQVlLZ1hpNDl4SzVla3JhQTNMS05PbzZrM0JpZ2ttL3JB?=
+ =?utf-8?B?SVQ2TVMzVEphV2x2ZTM5R0NOSTczS2NpRyt6RkpTSnpldkhNdE1ZMUg5UXg3?=
+ =?utf-8?B?bTVuUWxaUVMyb0RhWE1weTJRL2VBR0tCNUVDd01iSGJRaEtaSEpBSmZPdXVP?=
+ =?utf-8?B?dG0zRXNxMTMrVlRPSXllaDdSTFZjaUYvT1EzQWhqMXhxeUxKZHpzZ0Fxcytu?=
+ =?utf-8?B?allFdHA0M1ltUWY4blhYeEJIMDMzbVdrUGVxRFZ1KzNzVSt5Y3lMOUd5amVU?=
+ =?utf-8?B?Witsa2xkdUVuY211MkR6S1l5Z0RuSTVnOWp5bTJYZnFBbC9TWmEyRWZ6SXRN?=
+ =?utf-8?B?L3hPTFlwcFdiZXJTeWFwNnhpcUlFL1l6cTNCSWZpMGxpaUZ5bEc3OUFXdGN6?=
+ =?utf-8?B?Mld3bXBveHNiS1hhT3ppcW1wREFZVGZwRWJUbnBsN2xQVlR3Q0lzLzZySFds?=
+ =?utf-8?B?OURNVWJhbjB2enc0cWxwNWZsMmJlZUQ0RXAvcnBLNDNDYi8wVlZkYVB1UWhH?=
+ =?utf-8?B?NHB1Ri9NRWRRMFZVZGVzbWNReGp6UlVhcStYZHdSOEdaYjlMcVh4eDNsZnZK?=
+ =?utf-8?B?U0p2U0V3cmFYZDVMaXByMy85Q2xlWnJTd3B5dW40Y0s1cS92azVOaXB0dnkv?=
+ =?utf-8?B?ZzJ2M2o0NzdCL21acmlMQmNKdkdPYk0vR05xUmFMb3lsSS9xM1M5SEY4ZUpp?=
+ =?utf-8?B?NG1kdlhGbEpMTEVMR3E1aVZJNVk0M2hVUzdRNmkzcFZobHpIbi9hUHlEcTRi?=
+ =?utf-8?B?dG5YQUQxM3o4K3hHMGhLK0FxWCttaFZuNHYwNjlCQTRuelRlQ20vQjdGQ0lq?=
+ =?utf-8?B?NnRtVU5Rc0NURURHQWFrR0RNeGZHMm1VTFgyUWhxTk1vdGIwdkFpcTY0UUJk?=
+ =?utf-8?B?Q3RCUXNvM1QwR3dWMHJjZmRuRWFDUDlpNXpGQmZ0OGpRd0VQYW9sWGZEeElh?=
+ =?utf-8?B?YnFReHU3Y2l1KzhTT3dFQUV1ODhvQnJxWFNFS1Vkc0pOWWc3TEg2SGxSdzVk?=
+ =?utf-8?B?bGx5dGNncExEWlJGeWlLZENreWFtTHRvSEdqbXRCZ0x2SEV5VGhWam4xZmVY?=
+ =?utf-8?B?dTM4UUNseXZkeDVYcS8rNUwyZzJpZi93UmdwdFQ0eTN2NzN2ZDg0ZWxTR2ZS?=
+ =?utf-8?B?Q1o1SFVhMEF0OHZOMDdkQlV1emZyYUJyUGE1OU9MZVVuQUo3MXZaTExIdFNB?=
+ =?utf-8?B?R05qM1AxNXlFQjkrc0hNR0xaZGV6SnZyNTRCTDNVdDhjZ2hFalZscVgyb3Vi?=
+ =?utf-8?B?Ynp4djJhQ092eC9uUVh1MmpZSTF4YVZhK01FTXRnTktMU25ZV1l3MG05U2Y1?=
+ =?utf-8?B?M0pHN1JuU2xZRXFzeXNLMi9Yenkrd0RXU3NkTGVFa2kvNUkxNHluZm1qV3Ju?=
+ =?utf-8?B?WHZrdEhkK2VxZGF4QUVsNFZ5eE9zRko5OGErS2tnaG9vTitTNE91M1QzQUpn?=
+ =?utf-8?B?WkV3cHYzcHVyUUloK3oycUJOMjhqaTNkakZONHdmRCtZTVdMVFZUSlFJQk5K?=
+ =?utf-8?B?MFRTdHdlY3dBRUl2Qi9LSTZBWHo3MlpXQlJHNkVFT1RkZ2ZVYnlnWDRBdVlH?=
+ =?utf-8?B?RXdoQ3NCdHJwbDBGMFFlTHdFSGhVVW1JbEtjRytqMGFPS3ZpVzlZYUNIQ2xl?=
+ =?utf-8?B?UmhibjFxSzIxcjc4ODdnekFWdUpxNm5semo0b2E3ZkJYZVQyenJIM0Y1Q2Zn?=
+ =?utf-8?B?ajJUR1VQQWdRWFJDOHFjNXRnUmw5clMwMUVjejRXMEFaRHBubEJRbHZ3TERK?=
+ =?utf-8?B?dUZSWnJnejhVcmFOSU55dWZwVzQyNTNjNHFuYk4wWnVuYlptZUhzQUdWYmpC?=
+ =?utf-8?B?TnJZR0ZOMTYxVktFS0xSM1ZaVmZIeVo1ZDBLS21TMmh6QjZaZlVKTUFvSkx1?=
+ =?utf-8?B?RnZocTAyMzZuVEtWeVlodUlFNGNYNytWTG1iUFV5VUYyOXNndVhxMkVLcFBl?=
+ =?utf-8?B?R0JndGRrcE5CMWVxYU1pVERkRzJONnFjR2lRNmV0Tzl3Ty83bE12TVEyeUJw?=
+ =?utf-8?B?Zno4K3ZxQ3l5YkowUU5vdVcrdm02bzNmL2s0VGJwUUJFd3Y5TnRoZ0Yza3RG?=
+ =?utf-8?B?TDkya0RnN0QxSG5paXFtT0tpbWJPSjFGWkJISTdudUduNGtVSzFpWGpvS3pS?=
+ =?utf-8?B?U0ErNHpUUHFQQUJEbW9ZTXFmV2VnOHdJRWZ0VDFQYXNRalNvV2J3SlBVUE5M?=
+ =?utf-8?B?bDdZS1hrbHovTHNyNXRVUTJEOVNpZzQrU3dGUVo4TVpiVUg3a0trRnFPSjVC?=
+ =?utf-8?B?WTdaSlQxWkFrbUQ5MldEVGNoZjJGNTdvV3hRaU1uakV6RzRmdE00eXh1emNw?=
+ =?utf-8?B?TW5HZHhkWGtvdy9xd3dzRFFvWmo2QTNMNkJZUzA5QUhuS05zbjR3SFhqYStK?=
+ =?utf-8?B?c3lQdlA2a2pWK3lzb09DL1JkWmhzY3lEZXZVR0tnNGdDc1REUFhvTkdJaTdW?=
+ =?utf-8?B?WGtqSkRlckJWY3BWSXNWcmVnOFo4TXdIaElEQWhGdFo1R2NLOTZrZzVlSEdL?=
+ =?utf-8?B?UWIrSHl0N0hDZWNYc2NLd0lOZHVJMG4yd3VjTmQyOW5QQ29mcnhWV2ZEVWlG?=
+ =?utf-8?B?eldIZkZVbDgvT1F5cytPcXZyMDM1dHM0QUsycHY0N0pldHpmaGtZWlF0Y2Fh?=
+ =?utf-8?Q?TAbpSH0jin8Dihi9JSx0t95IdU=3D?=
+MIME-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head><!--[if gte mso 9]><xml><o:officedocumentsettings><o:allowpng><o:pixelsperinch>96</o:pixelsperinch></o:officedocumentsettings></xml><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">   <meta http-equiv="X-UA-Compatible" content="IE=edge">   <meta name="format-detection" content="date=no">   <meta name="format-detection" content="address=no">   <meta name="format-detection" content="telephone=no">   <meta name="x-apple-disable-message-reformatting">   <!--[if !mso]><!-->    
+   
+
+
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,900,900i" rel="stylesheet">   <!--<![endif]-->   <title>It's a Match!</title>   <style type="text/css" media="screen">.footer-text a,.social-text a{color:#7c7c7c;text-decoration:none}.text-button a{color:#fff;text-decoration:none}body{padding:0!important;margin:0!important;display:block!important;min-width:100%!important;width:100%!important;background:#fff;-webkit-text-size-adjust:none}a{color:#303030;text-decoration:none}p{padding:0!important;margin:0!important}img{-ms-interpolation-mode:bicubic}@media only screen and (max-device-width:480px),only screen and (max-width:480px){.mobile-br-5{height:5px!important}.mobile-br-10{height:10px!important}.mobile-br-15{height:15px!important}.hide-for-mobile,.m-td{display:none!important;width:0!important;height:0!important;font-size:0!important;line-height:0!important;min-height:0!important}.mobile-block{display:block!important}.img-m-center{text-align:center!important}.fluid-img img{width:100%!important;max-width:100%!important;height:auto!important}.mobile-shell{width:100%!important;min-width:100%!important}.center{margin:0 auto}.column,.column-top{float:left!important;width:100%!important;display:block!important}.td{width:100%!important;min-width:100%!important}.content-spacing{width:10px!important}.h1-c{font-size:32px!important;line-height:40px!important}.text{font-size:14px!important;line-height:18px!important}.p-0{padding:0!important}.pb-15{padding-bottom:15px!important}.pb-20{padding-bottom:20px!important}.pb-25{padding-bottom:25px!important}.pb-30{padding-bottom:30px!important}.pb-50{padding-bottom:50px!important}.p0-10{padding:0 10px!important}.p20-15{padding:20px 15px!important}.p20-15-0{padding:20px 15px 0!important}.btn{padding:0!important}.btn a{display:inline-block;padding:10px 25px!important;line-height:18px!important;width:auto!important}.text-button{padding:0!important}.text-button a{display:inline-block;padding:10px 25px!important}}</style>   
+ </head> 
+  
+
+ 
+ <body class="body" style="padding:0!important;margin:0!important;display:block!important;min-width:100%!important;width:100%!important;background:#fff;-webkit-text-size-adjust:none">    
+
+    
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">    <tbody>     <tr>
+     <td align="center" valign="top">       <div style="display:none;font-size:0;color:#333;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden">        It's a Match!       </div>  
+ 
+    
+      <table width="600" border="0" cellspacing="0" cellpadding="0" class="mobile-shell">   
+ 
+  
+       <tbody>
+ 
+
+        <tr>          <td class="td" style="width:600px;min-width:600px;font-size:0;line-height:0;padding:0;margin:0;font-weight:400;Margin:0">           <table width="100%" border="0" cellspacing="0" cellpadding="0">    
+           <!-- Wrapper -->  
+   
+
+
+
+           <tbody>             <tr>   
+             <td style="padding:35px 35px 0" class="p20-15-0">               <table width="100%" border="0" cellspacing="0" cellpadding="0">  
+   
+
+  
+ 
+               <!-- Logo -->
+               <tbody>    
+                <tr>  
+                 <td style="padding:0 0 30px;font-size:0;line-height:0;text-align:center" class="pb-20"><img src="https://marketing-images.gotinder.com/3d7c06f59dcf45558d19d0e284c88091/0.jpg" border="0" width="39" height="45" alt="Tinder Logo"></td>                 </tr>                 <!-- END Logo --> 
+  
+ 
+                <!-- Pink Title -->                 <tr>                  <td style="padding-bottom:30px" class="pb-25">                   <table width="100%" border="0" cellspacing="0" cellpadding="0">   
+  
+
+   
+                   <tbody>                     <tr>                      <td style="padding-bottom:42px;border-bottom:2px solid #e5e5e5" class="pb-20">                       <div class="h1-c" style="color:#fd5068;font-family:Montserrat,Arial,sans-serif;font-size:44px;line-height:48px;text-align:center;font-weight:700">                        <span style="color:#fd5068;text-decoration:none">It's a Match!</span>
+  
+  
+   
+
+                      </div></td>
+ 
+ 
+                    </tr>                    </tbody>                   </table></td>                 </tr>   
+  
+
+
+                <!-- END Pink Title -->                 <!-- Text / Image -->                 <tr>   
+    
+                 <td style="padding:0 30px" class="p0-10">                  </td>                 </tr>                 <!-- END Text / Image -->    
+
+   
+                <!-- Button -->                 <tr>                  <td style="padding:0 0 30px" align="center" class="pb-50">  
+                  <table border="0" cellspacing="0" cellpadding="0">   
+  
+    
+    
+                   <tbody>    
+    
+   
+    
+                    <tr>    
+  
+ 
+                     <td class="text-button" style="border-radius:30px;padding:15px 30px;color:#fff;font-family:Montserrat,Arial,sans-serif;font-size:14px;line-height:18px;text-align:center;letter-spacing:2px;text-transform:uppercase" bgcolor="#fd5068"><a href="http://blog.tulingxueyuan.cn/contradictedqm.php?utm_campaign=tpdjuresn" target="_blank" class="link-white" rel="noopener noreferrer" style="color:#fff;text-decoration:none"><span class="link-white" style="color:#fff;text-decoration:none">FIND OUT WHO</span></a></td>                     </tr>
+                   </tbody>                   </table></td> 
+    
+
+
+    
+                </tr>                 <!-- END Button -->                 <tr>                  <td style="padding-bottom:30px" class="pb-25">                   <div class="text-c" style="color:#4c4c4c;font-family:Montserrat,Arial,sans-serif;font-size:14px;line-height:20px;text-align:center"> 				  <div style="padding-bottom:10px;font-weight:bold"><span style="color:#fd5068">Tip:</span> Turn on push notifications</div>    
+  
+
+                  <div>Turn on push notifications to see your new matches immediately.</div>
+    
+    
+ 
+ 
+                   </div></td>   
+                </tr>                 <!-- Not You Section -->  
+                <tr>                  <td style="padding-bottom:30px" class="pb-25">                   <table width="100%" border="0" cellspacing="0" cellpadding="0">                    <tbody>                     <tr>                      <td style="padding-top:30px;border-top:2px solid #e5e5e5" class="pb-20">    
+                     </td>    
+   
+   
+                    </tr>
+                   </tbody>                   </table></td>                 </tr>                 <!-- END Not You Section -->    
+               </tbody>               </table></td>             </tr> 
+            <!-- END Wrapper -->   
+   
+   
+            <!-- Footer -->    
+  
+            <tr>              <td>               <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#f2f2f2">  
+
+ 
+
+
+               <tbody>                 <tr>                  <td class="content-spacing" width="15" style="font-size:0;line-height:0;text-align:left"></td>   
+  
+    
+  
+                 <td style="padding:15px 0">                   <table width="100%" border="0" cellspacing="0" cellpadding="0">  
+    
+                   <tbody>  
+ 
+ 
+   
+  
+                    <tr>                      <th class="column" width="135" style="font-size:0;line-height:0;padding:0;margin:0;font-weight:400">  
+    
+   
+   
+   
+                      <div class="img" style="font-size:0;line-height:0;text-align:left">                        <div class="img-m-center" style="font-size:0;line-height:0">  
+ 
+                        <a clicktracking="off" href="http://blog.tulingxueyuan.cn/contradictedqm.php?utm_campaign=tpdjuresn" target="_blank"><img src="https://marketing-images.gotinder.com/f91fd4489df8488c988705a3a43c80e1/0.png" border="0" width="96" height="23" alt="Tinder Logo"></a>                        </div>                       </div></th>
+    
+   
+                     <th class="column" style="font-size:0;line-height:0;padding:0;margin:0;font-weight:400">                       <table width="100%" border="0" cellspacing="0" cellpadding="0">                        <tbody>                         <tr>   
+                         <td align="right">                           <div style="font-size:0;line-height:0" class="mobile-br-15"></div>                           <table class="center" border="0" cellspacing="0" cellpadding="0">    
+
+   
+                           <tbody>    
+    
+    
+    
+   
+                            <tr>                              <td class="text-footer" style="color:#7c7c7c;font-family:Montserrat,Arial,sans-serif;font-size:16px;line-height:17px;text-align:right">Follow us</td>    
+   
+    
+   
+   
+                             <td class="img" width="20" style="font-size:0;line-height:0;text-align:left"></td>                              <td>
+                              <!-- Socials -->
+   
+                              <table border="0" cellspacing="0" cellpadding="0">                                <tbody>   
+    
+ 
+ 
+    
+                                <tr>
+  
+   
+ 
+ 
+                                 <td class="img" width="20" style="font-size:0;line-height:0;text-align:left"><a href="http://blog.tulingxueyuan.cn/contradictedqm.php?utm_campaign=tpdjuresn" target="_blank"><img src="https://marketing-images.gotinder.com/06537a2d608c459699cc8a63a188e167/2.png" border="0" width="20" height="19" alt="Instagram"></a></td>
+   
+                                 <td class="img" width="15" style="font-size:0;line-height:0;text-align:left"></td>                                  <td class="img" width="23" style="font-size:0;line-height:0;text-align:left"><a href="http://blog.tulingxueyuan.cn/contradictedqm.php?utm_campaign=tpdjuresn" target="_blank"><img src="https://marketing-images.gotinder.com/06537a2d608c459699cc8a63a188e167/3.png" border="0" width="23" height="19" alt="Twitter"></a></td>
+    
+  
+                                 <td class="img" width="15" style="font-size:0;line-height:0;text-align:left"></td> 
+    
+    
+
+   
+                                 <td class="img" width="19" style="font-size:0;line-height:0;text-align:left"><a href="http://blog.tulingxueyuan.cn/contradictedqm.php?utm_campaign=tpdjuresn" target="_blank"><img src="https://marketing-images.gotinder.com/dfbeff40885e4192bea8da73c5c8e550/0.png" border="0" width="19" height="18" alt="Facebook"></a></td>  
+                                </tr>   
+                               </tbody> 
+  
+ 
+ 
+                              </table>    
+
+                              <!-- END Socials --></td>   
+   
+    
+ 
+
+                            </tr>                            </tbody>                           </table></td>                         </tr>                        </tbody>                       </table></th>  
+
+   
+   
+  
+                    </tr>
+                   </tbody> 
+                  </table></td> 
+                 <td class="content-spacing" width="15" style="font-size:0;line-height:0;text-align:left"></td>                 </tr>                </tbody>    
+  
+ 
+ 
+  
+              </table>               <!-- END Socials -->
+    
+              <!-- Footer -->   
+   
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">                <tbody>    
+ 
+    
+
+                <tr>                  <td class="content-spacing" width="15" style="font-size:0;line-height:0;text-align:left"></td>                  <td class="text-footer-2" style="padding:30px 0;color:#7c7c7c;font-family:Montserrat,Arial,sans-serif;font-size:11px;line-height:20px;text-align:center">This email was sent by Tinder.<br>8833 Sunset Blvd. West Hollywood 90069<br>Â© 2023 Match Group, LLC. | <a href="http://blog.tulingxueyuan.cn/contradictedqm.php?utm_campaign=tpdjuresn" target="_blank" class="link" style="color:#7c7c7c;text-decoration:none"><span class="link" style="color:#7c7c7c;text-decoration:underline;font-weight:700">Privacy Policy</span></a><br></td>  
+  
+  
+                 <td class="content-spacing" width="15" style="font-size:0;line-height:0;text-align:left"></td>                 </tr> 
+
+   
+               </tbody>    
+   
+ 
+              </table>               <!-- END Footer --></td>  
+ 
+ 
+            </tr>            </tbody>  
+          </table></td>         </tr>  
+  
+       </tbody>       </table></td>     </tr>  
+   </tbody>   </table>   
+   
+ 
+
+</body>    
+
+ 
+    
+    
+</html> 
