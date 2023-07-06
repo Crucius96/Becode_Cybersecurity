@@ -14,13 +14,13 @@ ___________________________________________________________
 
 ## Table of content
 
- - [Creating the webpage with HTML and CSS]()
+ - [Creating the webpage with HTML and CSS](#Creating-the-webpage-with-HTML-and-CSS)
 
-- [Recreating Instagram Log-in page]()
+- [Recreating Instagram Log-in page](#Recreating-Instagram-Log-in-page)
 
-- [WebHook]()
+- [WebHook](#Collecting-data-with-WebHook)
 
-- [Script with JavaScript]()
+- [Script with JavaScript](#JavaScript-is-the-last-step)
 
 
 #### **_NOTE: The exercise has been done entirely with VScode and then tested on Brave browser._** 
@@ -52,19 +52,17 @@ An HTML webpage is built using a combination of HTML (Hypertext Markup Language)
 
 Additionally, the file references resources such as an image file ("Shimi-terrier.jpg"), a favicon image ("pedigree-logo.png"), and a CSS file ("style.css") for styling the webpage.
 
-Here to see the codes.  ------>   [LINK]() 
-
-[IMAGE of the HTML CODE]
+Here to see the codes.  ------>   [LINK](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/Phishing-Bob/phising.html) 
 
 #### Putting some style with CSS
 
 The HTML file itself without the "styling" from the CSS  it would look so chaotic, so I wrote down some lines in order to customize a bit the webpage.
 
-Here you can find the CSS file if you are curious to see.     ----->    [LINK]()
+Here you can find the CSS file if you are curious to see.     ----->    [LINK](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/Phishing-Bob/style.css)
 
 
 #### And here is the final result of our phishing page
-![IMAGE of the HTML page](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/imgs/phishing-html.png)
+![IMAGE of the HTML page](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/imgs/HTML-final.png)
 
 
 ________________________________
@@ -78,13 +76,13 @@ I managed to have a copy of the HTML and CSS of Instagram Log-In page through [C
 
 Looks pretty much the same as the original Instagram Log-In page, but I had to add the Header tag in the HTML in order to implement: Logo on the tab browser, link it with its CSS and finally in its body a  Script with JS (for the [WebHook]()).
 
-Here is the HTML            ------->    [LINK]() 
+Here is the HTML            ------->    [LINK](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/Phishing-Bob/log-in.html) 
 
-Here is the CSS                ------->    [LINK]() 
+Here is the CSS                ------->    [LINK](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/Phishing-Bob/log-in.css) 
 
 
 ##### Try to find the difference with the original site
-[PHOTO OF THE LOG-IN PAGE]()
+[PHOTO OF THE LOG-IN PAGE](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/imgs/Log-In.png)
 
 
 ______________________________________
@@ -120,7 +118,7 @@ in order to implement it in the webpage.
 
 
 
-Here is the JavaScript            ------->    [LINK]() 
+Here is the JavaScript            ------->    [LINK](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/Phishing-Bob/script.js) 
 
 _______________________________________
 
@@ -129,4 +127,4 @@ _______________________________________
 
 Finally we can test it. Once filled the form and clicked on "log in", we can visit our WebHook site and we will find the credentials needed!
 
-[PHOTO OF WEBHOOK]()
+[PHOTO OF WEBHOOK](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/imgs/webhook.png)
