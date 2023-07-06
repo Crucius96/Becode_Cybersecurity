@@ -1,4 +1,4 @@
-#Phishing Exercise
+# Phishing Project
 
 ## Introduction
 
@@ -64,7 +64,7 @@ Here you can find the CSS file if you are curious to see.     ----->    [LINK]()
 
 
 #### And here is the final result of our phishing page
-[IMAGE of the HTML page]
+![IMAGE of the HTML page](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/imgs/phishing-html.png)
 
 
 ________________________________
