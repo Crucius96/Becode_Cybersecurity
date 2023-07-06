@@ -82,7 +82,7 @@ Here is the CSS                ------->    [LINK](https://github.com/Crucius96/B
 
 
 ##### Try to find the difference with the original site
-[PHOTO OF THE LOG-IN PAGE](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/imgs/Log-In.png)
+![PHOTO OF THE LOG-IN PAGE](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/imgs/Log-In.png)
 
 
 ______________________________________
@@ -127,4 +127,4 @@ _______________________________________
 
 Finally we can test it. Once filled the form and clicked on "log in", we can visit our WebHook site and we will find the credentials needed!
 
-[PHOTO OF WEBHOOK](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/imgs/webhook.png)
+![PHOTO OF WEBHOOK](https://github.com/Crucius96/Becode-Projects/blob/master/Phishing%20Chapter/Phishing%20Exercise/imgs/webhook.png)
