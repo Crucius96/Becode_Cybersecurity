@@ -6,9 +6,9 @@
 
 ### Phishing Chapter
 
-   - [Phishing Analysis](Phishing Chapter/Phishing Analysis)
+   - [Phishing Analysis](https://github.com/Crucius96/Becode-Projects/tree/master/Phishing%20Chapter/Phishing%20Analysis)
 
-   - [Phishing Project (HTML, CSS, JavaScript, Data Gathering with Webhook)](
+   - [Phishing Project (HTML, CSS, JavaScript, Data Gathering with Webhook)](https://github.com/Crucius96/Becode-Projects/tree/master/Phishing%20Chapter/Phishing%20Exercise)
 
 ### Network Chapter
 
