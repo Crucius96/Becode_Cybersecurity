@@ -6,9 +6,9 @@
 
 ### Phishing Chapter
 
-   - Phishing Analysis
+   - [Phishing Analysis](Phishing Chapter/Phishing Analysis)
 
-   - Phishing Project (HTML, CSS, JavaScript, Data Gathering with Webhook)
+   - [Phishing Project (HTML, CSS, JavaScript, Data Gathering with Webhook)](
 
 ### Network Chapter
 
