@@ -6,7 +6,7 @@
 
 ### Python
 
-   -[Flask Project]()
+   - [Flask Project]()
 
 ### Phishing Chapter
 
