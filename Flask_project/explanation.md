@@ -157,11 +157,12 @@ _________________________________________
 
 
 ________________________________
-[Here for the HTML file]()
+[Here for the HTML file](https://github.com/Crucius96/Becode-Projects/blob/master/Flask_project/templates/index.html)
 
 <br/>
 _______________________
-  ### Now back to our python file
+  
+### Now back to our python file
 
 <br/>
 
@@ -307,7 +308,7 @@ _______________________
 	
 	    app.run(debug=True)
 
-[Here for the python file]()
+[Here for the python file](https://github.com/Crucius96/Becode-Projects/blob/master/Flask_project/app.py)
 
 <br/>
 
@@ -317,7 +318,7 @@ _______________________________________________________
 
 ### Then finally we will create a confirmation HTML where the user will be redirected ONLY if the inputs passes the "sanitization and validation" of the form
 
-[Here for the confirmation HTML]()
+[Here for the confirmation HTML](https://github.com/Crucius96/Becode-Projects/blob/master/Flask_project/templates/confirmation.html)
 
 <br/>
 
@@ -329,6 +330,8 @@ _____________________________________________________
 <br/>
 
 		Sanitization 
+
+<br/>
 
 >It is primarily focused on preventing security vulnerabilities, such as **Cross-Site Scripting (XSS)** attacks, where malicious code is injected into the application. Sanitization ensures that any user-submitted data is safe to use and display.
  	Common sanitization techniques include: 
@@ -348,6 +351,8 @@ _____________________________
 <br/>
 
 		Validation
+
+<br/>
 
 > Validation is the process of checking if user input adheres to certain rules or criteria, ensuring that the data is valid and appropriate for the application's requirements.
 > Common validation checks include:
