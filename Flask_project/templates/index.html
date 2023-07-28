@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact page</title>
+    <style>
+        body{
+            text-align:center;
+        }
+    </style>
+</head>
+<body>
+    <h1>This is the Home Page!</h1>
+
+    <form method="post">
+        First name: <input name="first_name" required value="{{ first_name }}"/>  <!-- "required" is neede if we make mandatory to fill the field.-->
+        Last name: <input name="last_name" required value="{{ last_name }}"/>
+        <br/><br/>
+        Email: <input type="email" name="email" required value="{{ email }}"/>
+        Country: <select name="country" required>      <!-- for a list we will use the 'select' method, with 'options' under-->
+            {% for country in countries %}
+            <option value="{{country}}">{{country}}</option>
+            {% endfor %}
+            <!-- <option value="italy">Italy</option>
+            <option value="belgium">Belgium</option>
+            <option value="germany">Germany</option>
+            <option value="netherlands">Netherlands</option>
+            <option value="spain">Spain</option>
+            <option value="portugal">Portugal</option> -->
+        </select>
+        <br/><br/>
+        Message: <input name="message" required value="{{ message }}"/>
+        <br/><br/>
+        Gender: <input type="radio" name="gender" value="Male" required {% if gender == "Male" %}checked{% endif %}/> Male
+                <input type="radio" name="gender" value="Woman" {% if gender == "Woman" %}checked{% endif %} required/> Woman
+        <br/><br/>
+        Subject: <input type="checkbox" name="subject" value="Repair" {% if "Repair" in subject %}checked{% endif %}> Repair
+                 <input type="checkbox" name="subject" value="Order" {% if "Order" in subject %}checked{% endif %}> Order
+                 <input type="checkbox" checked name="subject" value="Other" {% if "Other" in subject %}checked{% endif %}> Other
+
+        <br/><br/>
+        <button type="submit">Submit</button>
+
+        <!-- Honeypot anti-spam technique -->
+        <input type="text" name="bot_field" style="display: none;">
+    </form>
+
+</body>
+</html>

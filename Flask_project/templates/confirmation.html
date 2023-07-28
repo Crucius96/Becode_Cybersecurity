@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confirmation page</title>
+    <style>
+        body{
+            text-align:center;
+        }
+    </style>
+</head>
+<body>
+    <h1> Thank you for contacting us! </h1>
+    <p>Here is a summery of the informations you have provided:</p>
+
+    <ul>
+        <p><strong>First name:</strong> {{ first_name }}</p>
+        <p><strong>Last name:</strong> {{ last_name }}</p>
+        <p><strong>Email:</strong> {{ email }}</p>
+        <p><strong>Country:</strong> {{ country }}</p>
+        <p><strong>Message:</strong> {{ message }}</p>
+        <p><strong>Gender:</strong> {{ gender }}</p>
+        <p><strong>Subject:</strong> {{ subject }}</p>
+    </ul>
+    <p>Thank you again for contacting us!</p>
+
+    
+</body>
+</html>
