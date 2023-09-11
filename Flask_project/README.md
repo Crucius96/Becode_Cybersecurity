@@ -26,3 +26,10 @@ The company Hackers Poulette™ sells DIY kits and accessories for Rasperri Pi. 
 - Gender (M/F) (Radio box).
 - 3 possible subjects (Repair, Order, Others) (checkboxes). 
 All fields are mandatory, except for the subject (in this case, the value should be "Others").
+
+_______________________________
+
+### Bonus
+
+[MySQL Integration](./MySQL/README.md) with the Webapp created.
+[No_SQL](./No_SQL-MongoDB/README.md) explanation on how to integrate and use.
