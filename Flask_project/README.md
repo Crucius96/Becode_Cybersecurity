@@ -31,5 +31,6 @@ _______________________________
 
 ### Bonus
 
-[MySQL Integration](./MySQL/README.md) with the Webapp created.
-[No_SQL](./No_SQL-MongoDB/README.md) explanation on how to integrate and use.
+-[MySQL Integration](./MySQL/README.md) with the Webapp created.
+
+-[No_SQL](./No_SQL-MongoDB/README.md) explanation on how to integrate and use.
