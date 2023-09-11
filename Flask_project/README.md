@@ -1,5 +1,7 @@
 # Flask Project
 
+## [Here to redirect to the explanation and methodologies used for the project](https://github.com/Crucius96/Becode-Projects/blob/master/Flask_project/explanation.md)
+
 ## Problem statement:
 The company Hackers Poulette™ sells DIY kits and accessories for Rasperri Pi. They want to allow their users to contact their technical support. Your mission is to develop a Python script that displays a contact form and processes its response: sanitization, validation, and then sending feedback to the user.
 
@@ -24,8 +26,3 @@ The company Hackers Poulette™ sells DIY kits and accessories for Rasperri Pi. 
 - Gender (M/F) (Radio box).
 - 3 possible subjects (Repair, Order, Others) (checkboxes). 
 All fields are mandatory, except for the subject (in this case, the value should be "Others").
-
-____________________________________
-
-
-## [Here to redirect to the explanation and methodologies used for the project](https://github.com/Crucius96/Becode-Projects/blob/master/Flask_project/explanation.md)
