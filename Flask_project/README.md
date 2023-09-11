@@ -28,4 +28,4 @@ All fields are mandatory, except for the subject (in this case, the value should
 ____________________________________
 
 
-[Here to redirect to the explanation and methodologies used for the project](https://github.com/Crucius96/Becode-Projects/blob/master/Flask_project/explanation.md)
+## [Here to redirect to the explanation and methodologies used for the project](https://github.com/Crucius96/Becode-Projects/blob/master/Flask_project/explanation.md)
