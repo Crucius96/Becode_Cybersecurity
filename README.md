@@ -8,7 +8,7 @@
 
    - [Flask Project](https://github.com/Crucius96/Becode-Projects/tree/master/Flask_project)
 
-   - [MySQL and No SQL Implementation]
+   - [MySQL Implementation](https://github.com/Crucius96/Becode_Cybersecurity/tree/master/Flask_project/MySQL) and [No SQL](https://github.com/Crucius96/Becode_Cybersecurity/tree/master/Flask_project/No_SQL-MongoDB)
 
 ### Phishing Chapter
 
