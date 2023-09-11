@@ -18,9 +18,9 @@
 
 ### Network Chapter with Cisco Packet Tracer
 
-   - [Simple_Network](https://github.com/Crucius96/Becode-Projects/tree/master/Network%20Chapter/Simple_Network)
+   - [Simple_Network](https://github.com/Crucius96/Network_Architecture/tree/main/Simple_Network)
 
-   - [Group_Network_Project](https://github.com/Crucius96/Becode-Projects/tree/master/Network%20Chapter/Group_Network_Project)
+   - [Group_Network_Project](https://github.com/Crucius96/Network_Architecture/tree/main/Group_Network_Project)
 
 ### Linux Chapter
 
