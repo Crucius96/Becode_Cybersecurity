@@ -2,7 +2,7 @@
 
 Under the Wire challenge [(link here)](https://underthewire.tech/century) tests your skills of powershell commands, hereunder you can find all the passwords in order to get to all the levels of the game.
 
-Want them? ask me the Public key to decrypt the message. 
+Want them? ask me the Private key to decrypt the message. 
 
 
 -----BEGIN PGP MESSAGE-----
